@@ -1,0 +1,26 @@
+/* You can add global styles to this file, and also import other style files */
+*{
+  padding: 0 ;
+  margin: 0 ;
+  font-family: Cambria ;
+  box-sizing: border-box ;
+  color: #444 ;
+}
+
+a{
+  text-decoration: none !important;
+  color: #444 !important;
+  transition: .4s !important;
+}
+
+a:hover{
+  color: #a38c17  !important;
+}
+
+.ico{
+  cursor: pointer;
+}
+
+.separator{
+  border-top: 6px solid rgba(0,0,0,.1);
+}
